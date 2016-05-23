@@ -10,3 +10,5 @@ Objective
 Directions
 
 Fork this repo, clone your fork, then open arraysLecture.js and follow allong with the lecture.
+
+More on methods: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
